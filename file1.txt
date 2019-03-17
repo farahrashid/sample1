@@ -1,2 +1,2 @@
-This is a test.
+test.
 THis is another test by me.
