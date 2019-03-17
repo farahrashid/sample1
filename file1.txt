@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test. I eat rice.
+=======
+test. I eat rice
+>>>>>>> 3674b17f728fbd664ce3ff3eafbb82a13b81d65c
 THis is another test by me.
 This is a cross browser func
