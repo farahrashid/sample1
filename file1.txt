@@ -1,2 +1,3 @@
 test. I eat whatever.
 THis is another test by me.
+This is a cross browser func
